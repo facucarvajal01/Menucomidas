@@ -1,0 +1,23 @@
+.meie-script-regular {
+  font-family: "Meie Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header h2{
+    
+    float: left;
+}
+
+header p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: right;    
+}
+
+.hero{
+    font-family: 'Meie Script';
+    /* justify-content: center; */
+    text-align: center;
+    font-size: 30px;
+    
+}
