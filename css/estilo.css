@@ -3,21 +3,40 @@
   font-weight: 400;
   font-style: normal;
 }
+header{
+    background-color:darksalmon;
+    padding: 5px 10px;
+    max-height: 35px;
+}
+
+.contenedor{
+    
+}
 
 header h2{
-    
-    float: left;
+    padding-left: 5px;
 }
 
 header p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    float: right;    
+    max-width: 60px;  
+}
+main{
+    padding: 20px;
+    background-color:coral;
 }
 
-.hero{
+h1{
     font-family: 'Meie Script';
-    /* justify-content: center; */
+    color: white;
     text-align: center;
-    font-size: 30px;
-    
+    font-size: 40px;
+    margin-top: 30px;
+    background-color:rgb(142, 31, 31);
+}
+
+main h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
 }
